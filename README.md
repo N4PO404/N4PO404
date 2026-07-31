@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm N4PO </h1>
 
-<h3 align="center"> Self learning ,python, c++, c</h3>
+<h3 align="center"> Self learner ,python, c++, c</h3>
 
 
 
