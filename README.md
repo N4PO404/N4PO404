@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm N4PO </h1>
+<h1 align="center">Hi ,I'm N4PO </h1>
 
-<h3 align="center"> Self learner ,python, c++, c</h3>
+<h3 align="center"> python, c++, c</h3>
 
 
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Languages and Tools:
+### Languages:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
